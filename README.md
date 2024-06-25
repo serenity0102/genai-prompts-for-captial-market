@@ -4,5 +4,5 @@ This GitHub repository showcases GenAI prompts tailored for various capital mark
 
 To explore the use cases and corresponding prompts, please navigate to the relevant folders within this repository.
 
-Sagemaker: [Sagemaker](./Sagemaker)
+Sagemaker: [Sagemaker](./Sagemaker)  
 Bedrock: [Bedrock](./Bedrock)
